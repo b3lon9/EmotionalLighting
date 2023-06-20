@@ -1,0 +1,7 @@
+/build
+
+*.webp
+/src/test
+/src/androidTest
+
+/src/main/res/mipmap*
